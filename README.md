@@ -1,3 +1,4 @@
 # Blog-Robotica-Movil
 ## Practica 1: Vacuum Cleaner
 Para emepezar he tenido unos problemas a la hora de leer el laser, porque habia veces que me decia que el indice no era valido y otras veces que con el mismo codigo si que de volvia un valor, esto se debe a que el laser puede tardar un tiempo en hacer el primer escaneo. Para solucionarlo he tenido que crear una variable con el contenido del laser y luego he tenido que comprobar si el tamaño del atributo values es mayor que 0. En el momento que se cumple la condicion cambiaremos el valor de una variable de condicion y asi no estamos comprobando el tamaño todo el rato.
+En nuestro caso hemos elegido tres estados distintos: FORWARD, que avanza hacia adelante con velocidad constante, TURNING, que se encarga de girar a una velocidad constante un tiempo aleatorio y por último, SPIRAL, que se encarga de hacer un movimiento en espiral.
