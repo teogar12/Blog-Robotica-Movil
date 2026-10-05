@@ -17,7 +17,7 @@ Ahora llegamos a la parte mas importante. En funcion del estado que estemos ejec
 Para la practica hemos tenido que hacer muchas pruebas de los rangos aleatorios de los limites, las constantes de velocidad y las distancia minima para evitar los choques en cada caso, hasta llegar a los valores que mejor nos han funcionado.
 
 Aqui tenemos un video en camara rápida de una de las mejores ejecuciones que he logrado:
-[[https://www.youtube.com/watch?v=TU_ID_DE_VIDEO](https://youtu.be/wUAAo6-uV7s)]([https://www.youtube.com/watch?v=TU_ID_DE_VIDEO](https://youtu.be/wUAAo6-uV7s))
+[![Ver el vídeo]([https://img.youtube.com/vi/TU_ID_DE_VIDEO/maxresdefault.jpg](https://youtu.be/wUAAo6-uV7s))]([https://www.youtube.com/watch?v=TU_ID_DE_VIDEO](https://youtu.be/wUAAo6-uV7s))
 
 
 
