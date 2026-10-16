@@ -7,4 +7,5 @@ y el calculo del p para la velocidad lineal.
 
 Lo complicado de esta practica ha sido calcular los valores de las constantes de proporcionalidad y derivativa. Que he obtenido a base de prueba y error. En primer lugar empece por poner una velocidad lineal 
 constante, y ajustando la KWP (constante proporcional de la angular) hasta empezara a oscilar. Despues emepece a subir la KWD para que frenara esas oscilaciones hasta obtener algo estable. Una vez que ya lo hemos 
-estabilizado subimos la velocidad lineal constante y 
+estabilizado subimos la velocidad lineal constante y repetimos el mismo proceso. Por ultimo, ya hacemos que la velocidad se variable, de tal manera que cuanto mayor sea el error  menor sera la velocidad y cuando
+el error sea minimo iremos a velocidad maxima. En mi caso, he establcido unos valores maximos de velocidad para que aunque el controlador diga que hay que ir a mas velocidad la tope y que en las curvas no vaya demasiado lenta y asi recortar tiempos.
