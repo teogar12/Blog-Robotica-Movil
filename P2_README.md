@@ -12,17 +12,17 @@ el error sea minimo iremos a velocidad maxima. En mi caso, he establcido unos va
 
 A continuacion veremos las distintas ejecuciones en los distintos circuitos:
 
--Circuito Simple:
+- Circuito Simple:
 https://youtu.be/EVsvXMpdHM0
 
--Circuito de Montmelo:
+- Circuito de Montmelo:
 https://youtu.be/f2u_AcEOhVE
 
--Circuito de Montreal:
+- Circuito de Montreal:
 https://youtu.be/7KsFgILVWs0
 
--Circuito de Nurburgring:
+- Circuito de Nurburgring:
 https://youtu.be/jlgK2SyLwQ4
 
--Este es el record que he hecho en el simple circuit, pero la velocidad minima es mayor que en los anteriores y no es viable para los otros circuitos:
+- Este es el record que he hecho en el simple circuit, pero la velocidad minima es mayor que en los anteriores y no es viable para los otros circuitos:
 https://youtu.be/tSi10ZP1Jkw
