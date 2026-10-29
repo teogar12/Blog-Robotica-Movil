@@ -10,6 +10,5 @@ Ahora que tenemos el vector resultante o más bien el vector de la trayectoria q
 
 Finalmente, llamaremos a una función que comprueba si hemos llegado a un rango cercano al checkpoint, en ese caso establecemos el checkpoint como marcado y devolvemos false, ya que es valor se le asigna a esa variable condición que nos indicaba si había un target activo. En caso contrario, devolverá true y así seguiremos buscando el target.
 
-
-
-
+A continuación podemos ver un video de la ejecución:
+https://youtu.be/JdyUb9xGGZ4
