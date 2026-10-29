@@ -1,4 +1,4 @@
-# VFFCo
+# VFF
 
 Bueno en esta practica lo que estamos haciendo es un formula 1 que va por un circuito y tiene que completarlo evitando los obstaculos que se va encontrnado por el camino, para ello utilizaremos los datos que nos devuelve el lidar que tenemos en el morro del formula 1.
 
